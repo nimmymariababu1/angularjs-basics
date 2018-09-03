@@ -1,0 +1,30 @@
+[
+    {
+        "emp_id": "1",
+        "emp_name": "Nimmy",
+        "emp_location": "Bangalore,Karnataka",
+        "emp_dob": "1989-05-08",
+        "emp_doj": "2018-08-06"
+    },
+    {
+        "emp_id": "2",
+        "emp_name": "Miqdad",
+        "emp_location": "Bangalore,Karnataka",
+        "emp_dob": "1988-08-02",
+        "emp_doj": "2018-08-06"
+    },
+    {
+        "emp_id": "3",
+        "emp_name": "Manoj",
+        "emp_location": "Bangalore, Karnataka",
+        "emp_dob": "1990-08-06",
+        "emp_doj": "2018-08-06"
+    },
+    {
+        "emp_id": "4",
+        "emp_name": "Sujith",
+        "emp_location": "Chennai, Tamilnadu",
+        "emp_dob": "1989-08-06",
+        "emp_doj": "2018-08-06"
+    }
+]
